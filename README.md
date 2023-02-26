@@ -29,7 +29,7 @@
 
    <div align="center">
         <h1>
-            Hey Developers!! 
+          <code>Hey Developers..!!</code>
             <img src="https://media.giphy.com/media/TvNa6lOfIXu7uUGQ4F/giphy.gif" width="50px"/>
         </h1>
   </div>
