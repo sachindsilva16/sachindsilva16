@@ -155,7 +155,18 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 <!--   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16)](https://github.com/sachindsilva16/github-readme-stats) -->
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
   
-  ![sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true&theme=radical)
+<!--   ![sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true&theme=radical) -->
+  
+  ---
+  
+  <div>
+  <a href="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true&theme=radical" />
+</a>
+  
+  </div>
+  
+  ---
   
   <div>
   <a href="http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark">
@@ -163,6 +174,7 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 </a>
   </div>
   
+---
 
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&hide_progress=true">
