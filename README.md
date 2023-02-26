@@ -127,18 +127,18 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="100" height="100"/>&nbsp;
 
 <!--   VSCODE  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="90" height="90"/>
 
 
 <!--   ATOM  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="atom" alt="atom" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="atom" alt="atom" width="90" height="90"/>
 
 <!--   FIGMA  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="90" height="90"/>
 
 
 <!--   CANVAS  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canvas" alt="canvas" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canvas" alt="canvas" width="90" height="90"/>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="gc" alt="gc" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="gc" alt="gc" width="90" height="90"/>
  </div>
