@@ -40,7 +40,7 @@
 
 ---
 
-### 👨‍💻 About Me :
+### `💻 About Me :`
 
 I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in India
 
@@ -53,7 +53,7 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
-### 🛠️ Languages & Frameworks :
+### `🛠️ Languages & Frameworks :`
 
 <div align="center">
 
@@ -117,7 +117,7 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 
   ---
 
-  ### 🔨 Tools :
+  ### `🔨 Tools : `
 
 
 
