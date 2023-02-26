@@ -150,12 +150,26 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
  ### ` 🔥 My Stats : `
  
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark)](https://git.io/streak-stats)
+<!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark)](https://git.io/streak-stats) -->
   
 <!--   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16)](https://github.com/sachindsilva16/github-readme-stats) -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
   
   ![sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true&theme=radical)
+  
+  <div>
+  <a href="http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark" />
+</a>
+  </div>
+  
+
+<divalign="center">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&hide_progress=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&hide_progress=true"/>
+</a>
+  </div>
+
   
 
 <!-- <picture>
