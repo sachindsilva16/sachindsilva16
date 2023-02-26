@@ -144,3 +144,9 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="gc" alt="gc" width="70" height="70"/>
  </div>
+ 
+ ---
+ 
+ ### ` 🔥 My Stats : `
+ 
+ [![Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=sachindsilva16&theme=dark&background=000000)](https://git.io/streak-stats)
