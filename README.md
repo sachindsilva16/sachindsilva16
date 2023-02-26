@@ -17,6 +17,11 @@
           src="https://img.shields.io/badge/Instagram-FF1493?logo=instagram&logoColor=white&style=plastic"
         />
       </a>
+      <a href="https://www.github.com/sachindsilva16" target="_blank">
+        <img
+          src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=plastic"
+        />
+      </a>
     </div>
     <div class="profile-count" align="center">
         <img src="https://komarev.com/ghpvc/?username=sachindsilva16">
