@@ -184,6 +184,10 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
   
 ---
 
+### ` ✍️ Blog posts :`
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 
   
@@ -200,4 +204,5 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 <img src="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true" />
 </picture> -->
 
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
