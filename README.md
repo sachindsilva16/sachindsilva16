@@ -152,12 +152,13 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark)](https://git.io/streak-stats)
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16)](https://github.com/sachindsilva16/github-readme-stats)
+<!--   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16)](https://github.com/sachindsilva16/github-readme-stats) -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
   
   ![sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true&theme=radical)
   
 
-<picture>
+<!-- <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -167,4 +168,6 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true" />
-</picture>
+</picture> -->
+
+
