@@ -139,11 +139,21 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="70" height="70"/>
 
 
+
 <!--   CANVAS  -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canvas" alt="canvas" width="70" height="70"/>
 
+<!--   GOOGLE CLOUD  -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="gc" alt="gc" width="70" height="70"/>
+  
+  
+  
+  
+<!--   HYPER  -->
+  <img src="https://github.com/sachindsilva16/responsive_web_design/blob/main/hyper.svg" title="hyper" alt="hyper" width="70" height="70"/>
+  
  </div>
+ 
  
  ---
  
