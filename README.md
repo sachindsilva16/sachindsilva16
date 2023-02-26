@@ -42,7 +42,7 @@
 
 ### `💻 About Me :`
 
-I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in India
+I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Karnataka, India
 
 - 📗 Currently pursing 3rd year B.E in Information Science & Engineering at NMAM Institute of Technology, Nitte, Karkala.
 - 🌱 Enthusiastic in exploring new things everyday.
