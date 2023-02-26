@@ -167,7 +167,7 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
   
   ---
   
-  <div>
+  <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true&theme=radical" />
 </a>
@@ -176,7 +176,7 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
   
   ---
   
-  <div>
+  <div align="center">
   <a href="http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark" />
 </a>
