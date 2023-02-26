@@ -152,3 +152,7 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark)](https://git.io/streak-stats)
   
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16)](https://github.com/sachindsilva16/github-readme-stats)
+  
+  ![sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true)
+  
