@@ -106,6 +106,8 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 
   <!--JAVA-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel" width="90" height="90"/>
 
   </div>
 
