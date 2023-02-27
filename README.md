@@ -170,9 +170,7 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
   ---
   
   <div align="center">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&hide_progress=true">
-  <img size="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&hide_progress=true"/>
-</a>
+
   </div>
   
   ---
