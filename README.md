@@ -178,8 +178,8 @@ I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcM
   ---
   
   <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true&theme=radical" />
+  <a href="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true" />
 </a>
   
   </div>
