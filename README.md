@@ -31,15 +31,19 @@
       </div>
 
    <div align="center">
-        <h1>
-          <code>Hey Developers..!!</code>
+        <h2>
+          Hey Developersss..!!
             <img src="https://media.giphy.com/media/TvNa6lOfIXu7uUGQ4F/giphy.gif" width="50px"/>
-        </h1>
+        </h2>
   </div>
 
+
   <div align="center">
+  <kbd>
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUzNTAxNmU0MjBmNjg1MmMyNTEzODc5YjRmMTQ5YjdiNzg5YWFjMCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="90%" height="500">
+    </kbd>
     </div>
+
 
 ---
 
