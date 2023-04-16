@@ -8,6 +8,7 @@
   
   <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" height="40%" width="30%" align="right">
 </div>
+
 <div class="badges" align="center" style="margin-top:50px;">
       <a href="https://www.linkedin.com/in/sachin-dsilva-43169a1bb">
         <img
@@ -17,7 +18,7 @@
       <a href="https://twitter.com/sachinrons123" target="_blank">
         <img
           src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=plastic"
-        />
+        >
       </a>
       <a href="https://www.instagram.com/sachin.dsilva_/" target="_blank">
         <img
@@ -29,12 +30,10 @@
           src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=plastic"
         />
       </a>
-  
     </div>
-    <div class="profile-count" align="center">
+  <div class="profile-count" align="center">
         <img src="https://komarev.com/ghpvc/?username=sachindsilva16">
-  
-      </div>
+  </div>
 
    <div align="center">
         <h2>
@@ -44,23 +43,18 @@
   </div>
 
 
-  <div align="center">
-  
-    </div>
-
-
 ---
 
 ### `💻 About Me :`
 
-I am a Full-Stack Web Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Karnataka, India
+I am a Front-End Web Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Karnataka, India.
 
-- 📗 Currently pursing 3rd year Bachelor of Engineering in Information Science & Engineering at NMAM Institute of Technology, Nitte, Karkala.
+- 📗 Currently am pursing 3rd year Bachelor of Engineering in Information Science & Engineering at NMAM Institute of Technology, Nitte, Karkala.
 - 🌱 Enthusiastic in exploring new things everyday.
-- ⚡ During my free-time , I do some computer stuffs like browsing on new frameworks, techs and many more.
+- ⚡ During my spare-time , I do some computer stuffs like browsing on new frameworks, techs and many more.
 - 👉 To Reach me  : [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/sachin-dsilva-43169a1bb)
 - 📫 Drop a mail for web-collabs : letscode16@gmail.com
-
+- Do follow my social accounts for future updates:)
 
 ---
 
