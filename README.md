@@ -2,9 +2,13 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" height="40%" width="30%">
+  <kbd>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUzNTAxNmU0MjBmNjg1MmMyNTEzODc5YjRmMTQ5YjdiNzg5YWFjMCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300">
+    </kbd>
+  
+  <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" height="40%" width="30%" align="right">
 </div>
-<div class="badges" align="center">
+<div class="badges" align="center" style="margin-top:50px;">
       <a href="https://www.linkedin.com/in/sachin-dsilva-43169a1bb">
         <img
           src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic"  target="_blank"
@@ -25,9 +29,11 @@
           src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=plastic"
         />
       </a>
+  
     </div>
     <div class="profile-count" align="center">
         <img src="https://komarev.com/ghpvc/?username=sachindsilva16">
+  
       </div>
 
    <div align="center">
@@ -39,9 +45,7 @@
 
 
   <div align="center">
-  <kbd>
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUzNTAxNmU0MjBmNjg1MmMyNTEzODc5YjRmMTQ5YjdiNzg5YWFjMCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="90%" height="500">
-    </kbd>
+  
     </div>
 
 
