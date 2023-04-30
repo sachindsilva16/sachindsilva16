@@ -199,7 +199,7 @@ I am a Front-End Web Developer  <img src="https://media.giphy.com/media/WUlplcMp
   
 ---
 
-### ` ✍️ Blog posts :`
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
