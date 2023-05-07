@@ -58,41 +58,40 @@ I am a Front-End Web Developer  <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### `🛠️ Languages & Frameworks :`
+### `🛠️ Languages`
 
 <div align="center">
+  
+  <!--   C  -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="70" height="90"/>
 
+  <!--HTML5-->
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="70" height="80"/>
+
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="70" height="80"/>
+  
+  <!--JAVASCRIPT ES6-->
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="80"/>
+  
+  <!--   PYTHON  -->
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="70" height="80"/>
+
+### `⚙ Frameworks  `
 
   <!--REACTJS-->
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>
 
 
-  <!--CSS3-->
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>
-
-  <!--HTML5-->
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>
-
-  <!--JAVASCRIPT ES6-->
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>
-
-  <!--   BOOTSTRAP  -->
-
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="80" height="90"/>
 
 <!--   TAILWINDCSS  -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tailwind" width="150" height="100"/>
 
-<!--   C  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="90" height="100"/>
 
-<!--   PYTHON  -->
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="150" height="100"/>
 
   <!--MYSQL-->
 
@@ -104,17 +103,17 @@ I am a Front-End Web Developer  <img src="https://media.giphy.com/media/WUlplcMp
 
 
 <!--   TYPESCRIPT  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="ts" alt="ts" width="80" height="90"/>
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="ts" alt="ts" width="80" height="90"/> -->
 
   <!--   NEXTJS  -->
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="next" alt="next" width="50" height="100"/>
+<!--    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="next" alt="next" width="50" height="100"/> -->
 
   <!--JAVA-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/> -->
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel" width="90" height="90"/>
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel" width="90" height="90"/> -->
 
-  </div>
+ </div>
 
 
 
