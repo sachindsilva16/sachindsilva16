@@ -1,15 +1,18 @@
-[![An image of @sachindsilva16's Holopin badges](https://holopin.me/sachindsilva16)](https://holopin.io/@sachindsilva16)
+
+<kbd>
+<img src="https://holopin.me/sachindsilva16" height="300" width="1000" align="center"/>
+</kbd>
 
 
 <div id="header" align="center">
   <kbd>
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUzNTAxNmU0MjBmNjg1MmMyNTEzODc5YjRmMTQ5YjdiNzg5YWFjMCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUzNTAxNmU0MjBmNjg1MmMyNTEzODc5YjRmMTQ5YjdiNzg5YWFjMCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="728" height="350">
     </kbd>
   
   <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" height="40%" width="30%" align="right">
 </div>
 
-<div class="badges" align="center" style="margin-top:50px;">
+<div class="badges" align="center" style="margin-top:100px;">
       <a href="https://www.linkedin.com/in/sachin-dsilva-43169a1bb">
         <img
           src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic"  target="_blank"
@@ -62,44 +65,39 @@ I am a Front-End Web Developer  <img src="https://media.giphy.com/media/WUlplcMp
 
 <div align="center">
   
-  <!--   C  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="70" height="90"/>
+<!--   C  -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="70" height="70"/>
 
-  <!--HTML5-->
+<!--HTML5-->
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="70" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="70" height="70"/>
 
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="70" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="70" height="70"/>
   
-  <!--JAVASCRIPT ES6-->
+<!--JAVASCRIPT ES6-->
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>
   
-  <!--   PYTHON  -->
+<!--   PYTHON  -->
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="70" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="70" height="70"/>
 
 ### `⚙ Frameworks  `
 
-  <!--REACTJS-->
+<!--REACTJS-->
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>
-
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" height="70"/>
 
 <!--   TAILWINDCSS  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tailwind" width="150" height="100"/>
-
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tailwind" width="70" height="70"/>
 
   <!--MYSQL-->
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>
 
 
 <!--   NODEJS -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>
 
 
 <!--   TYPESCRIPT  -->
@@ -123,38 +121,33 @@ I am a Front-End Web Developer  <img src="https://media.giphy.com/media/WUlplcMp
 
   ### `🔨 Tools : `
 
-
-
-
-
-
 <div align="center">
   <!--   GIT  -->
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="100" height="100"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
 
 <!--   VSCODE  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="60" height="60"/>
 
 
 <!--   ATOM  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="atom" alt="atom" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="atom" alt="atom" width="60" height="60"/>
 
 <!--   FIGMA  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="60" height="60"/>
 
 
 
 <!--   CANVAS  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canvas" alt="canvas" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canvas" alt="canvas" width="60" height="60"/>
 
 <!--   GOOGLE CLOUD  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="gc" alt="gc" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="gc" alt="gc" width="60" height="60"/>
   
   
   
   
 <!--   HYPER  -->
-  <img src="https://github.com/sachindsilva16/responsive_web_design/blob/main/hyper.svg" title="hyper" alt="hyper" width="70" height="70"/>
+  <img src="https://github.com/sachindsilva16/responsive_web_design/blob/main/hyper.svg" title="hyper" alt="hyper" width="60" height="60"/>
   
  </div>
  
