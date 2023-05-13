@@ -40,7 +40,7 @@
 
    <div align="center">
         <h2>
-          Hello There,fellow <!Developers>
+          Hello There,fellow <! Developers >
             <img src="https://media.giphy.com/media/TvNa6lOfIXu7uUGQ4F/giphy.gif" width="50px"/>
         </h2>
   </div>
