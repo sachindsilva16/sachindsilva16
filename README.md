@@ -38,19 +38,15 @@
         <img src="https://komarev.com/ghpvc/?username=sachindsilva16">
   </div>
 
-   <div align="center">
-        <h2>
-          Hello There,fellow <! Developers >
-            <img src="https://media.giphy.com/media/TvNa6lOfIXu7uUGQ4F/giphy.gif" width="50px"/>
-        </h2>
-  </div>
+## **Hello There,fellow <Developers/>!**
+
 
 
 ---
 
 ### `💻 About Me :`
 
-I am a Front-End Web Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Karnataka, India.
+I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Karnataka, India.
 
 - 📗 Currently am pursing 3rd year Bachelor of Engineering in Information Science & Engineering at NMAM Institute of Technology, Nitte, Karkala.
 - 🌱 Enthusiastic in exploring new things everyday.
