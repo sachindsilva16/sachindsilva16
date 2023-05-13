@@ -61,21 +61,21 @@ I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/W
 <div align="center">
   
 <!--   C  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="50" height="50"/>
 
 <!--HTML5-->
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>
   
 <!--JAVASCRIPT ES6-->
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
   
 <!--   PYTHON  -->
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="50"/>
 </div>
 
 
@@ -85,7 +85,7 @@ I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/W
 
 <!--REACTJS-->
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
 
 <!--   TAILWINDCSS  -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tailwind" width="80" height="90"/>
@@ -122,31 +122,31 @@ I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/W
 
 <div align="center">
   <!--   GIT  -->
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 
 <!--   VSCODE  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="50" height="50"/>
 
 
 <!--   ATOM  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="atom" alt="atom" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="atom" alt="atom" width="50" height="50"/>
 
 <!--   FIGMA  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="50" height="50"/>
 
 
 
 <!--   CANVAS  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canvas" alt="canvas" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canvas" alt="canvas" width="50" height="50"/>
 
 <!--   GOOGLE CLOUD  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="gc" alt="gc" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="gc" alt="gc" width="50" height="50"/>
   
   
   
   
 <!--   HYPER  -->
-  <img src="https://github.com/sachindsilva16/responsive_web_design/blob/main/hyper.svg" title="hyper" alt="hyper" width="60" height="60"/>
+  <img src="https://github.com/sachindsilva16/responsive_web_design/blob/main/hyper.svg" title="hyper" alt="hyper" width="50" height="50"/>
   
  </div>
  
