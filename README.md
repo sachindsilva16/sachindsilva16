@@ -6,7 +6,7 @@
 
 <div id="header" align="center">
   <kbd>
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUzNTAxNmU0MjBmNjg1MmMyNTEzODc5YjRmMTQ5YjdiNzg5YWFjMCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="728" height="350">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUzNTAxNmU0MjBmNjg1MmMyNTEzODc5YjRmMTQ5YjdiNzg5YWFjMCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="350">
     </kbd>
   
   <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" height="40%" width="30%" align="right">
@@ -40,7 +40,7 @@
 
    <div align="center">
         <h2>
-          Hey Developersss..!!
+          Hello There,fellow <!Developers/>
             <img src="https://media.giphy.com/media/TvNa6lOfIXu7uUGQ4F/giphy.gif" width="50px"/>
         </h2>
   </div>
