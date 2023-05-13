@@ -190,6 +190,8 @@ I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/W
   
 ---
 
+👉 **[Checkout My GitHub 2.0]**(https://www.github.com/amppmann)
+
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
