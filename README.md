@@ -165,20 +165,25 @@ I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/W
   
   ---
   
-  <div align="center">
+ <!-- <div align="center">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&layout=compact&theme=vision-friendly-light">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&layout=compact&theme=vision-friendly-light" />
 </a>
-  </div>
-  
-  ---
-  
-  <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true" />
-</a>
-  
-  </div>
+  </div> -->
+
+<div align="center">
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true" />
+</picture>
+</div>
   
   ---
   
