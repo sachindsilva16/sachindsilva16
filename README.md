@@ -4,7 +4,7 @@
 </kbd>
 
 
-<div id="header" align="center" style="display:flex;justify-content:center;align-items:center;border-radius:10px;margin:10px 20px;">
+<div id="header" align="center" style="display:flex;justify-content:center;align-items:center;border-radius:10px;margin:10px 20px;margin-bottom:50px;">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUzNTAxNmU0MjBmNjg1MmMyNTEzODc5YjRmMTQ5YjdiNzg5YWFjMCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif">
   
   <!-- <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" height="40" width="30" align="right"> -->
