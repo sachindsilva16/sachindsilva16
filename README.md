@@ -187,9 +187,9 @@ I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/W
 </picture>
 </div>
   
-  ---
+---
   
-  <div align="center">
+<div align="center">
   <a href="http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark" />
 </a>
@@ -198,35 +198,36 @@ I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/W
 ---
 
 
-- [x] 👉 **[Checkout My GitHub 2.0](https://www.github.com/amppmann)**
-
----
-
 👉 👉 __Stay connected to my networks__
 
 
   <div class="badges" align="center" style="margin-top:100px;">
-      <a href="https://www.linkedin.com/in/sachin-dsilva-43169a1bb">
-        <img
+      <a  href="https://www.linkedin.com/in/sachin-dsilva-43169a1bb">
+        <img height="50" width="50" style="margin-right:10px"
           src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Linkedin.svg"  target="_blank"
         />
       </a>
       <a href="https://twitter.com/sachinrons123" target="_blank">
-        <img
+        <img height="50" width="50" style="margin-right:10px"
           src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Twitter.svg"
         >
       </a>
       <a href="https://www.instagram.com/sachin.dsilva_/" target="_blank">
-        <img
+        <img height="50" width="50" style="margin-right:10px"
           src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Instagram.svg"
         />
       </a>
       <a href="sachindsilvad@gmail.com" target="_blank">
-        <img
+        <img height="50" width="50" style="margin-right:10px"
           src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Gmail.svg"
         />
       </a>
     </div>
+--
+
+- [x] 👉 **[Checkout My GitHub 2.0](https://www.github.com/amppmann)**
+
+
 
 
 
