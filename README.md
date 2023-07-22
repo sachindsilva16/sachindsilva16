@@ -60,13 +60,15 @@ I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/W
 
 <div align="center">
   
-<!--   C  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="50" height="50"/>
+  <!-- C 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="50" height="50"/> -->
 
 <!--HTML5-->
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>
 
+
+<!-- CSS3  -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>
   
 <!--JAVASCRIPT ES6-->
@@ -88,7 +90,7 @@ I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/W
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
 
 <!--   TAILWINDCSS  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tailwind" width="80" height="90"/>
+  <img src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/tailwindcss.svg" title="tailwind" alt="tailwind" width="80" height="90"/>
 
   <!--MYSQL-->
 
@@ -105,8 +107,8 @@ I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/W
   <!--   NEXTJS  -->
 <!--    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="next" alt="next" width="50" height="100"/> -->
 
-  <!--JAVA-->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/> -->
+  <!-- JAVA-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>
   
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel" width="90" height="90"/> -->
 
@@ -191,11 +193,41 @@ I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/W
   <a href="http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark" />
 </a>
-  </div>
+
   
 ---
 
+
 - [x] 👉 **[Checkout My GitHub 2.0](https://www.github.com/amppmann)**
+
+---
+
+👉 👉 __Stay connected to my networks__
+
+
+  <div class="badges" align="center" style="margin-top:100px;">
+      <a href="https://www.linkedin.com/in/sachin-dsilva-43169a1bb">
+        <img
+          src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Linkedin.svg"  target="_blank"
+        />
+      </a>
+      <a href="https://twitter.com/sachinrons123" target="_blank">
+        <img
+          src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Twitter.svg"
+        >
+      </a>
+      <a href="https://www.instagram.com/sachin.dsilva_/" target="_blank">
+        <img
+          src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Instagram.svg"
+        />
+      </a>
+      <a href="sachindsilvad@gmail.com" target="_blank">
+        <img
+          src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Gmail.svg"
+        />
+      </a>
+    </div>
+
 
 
 <!-- BLOG-POST-LIST:START -->
