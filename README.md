@@ -49,7 +49,7 @@
           src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Instagram.svg"
         />
       </a>
-      <a href="mailtosachindsilvad@gmail.com" target="_blank">
+      <a href="mailto:sachindsilvad@gmail.com" target="_blank">
         <img height="50" width="50" style="margin-right:15px"
           src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Gmail.svg"
         />
@@ -240,7 +240,7 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
           src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Instagram.svg"
         />
       </a>
-      <a href="mailtosachindsilvad@gmail.com" target="_blank">
+      <a href="mailto:sachindsilvad@gmail.com" target="_blank">
         <img height="50" width="50" style="margin-right:10px"
           src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Gmail.svg"
         />
