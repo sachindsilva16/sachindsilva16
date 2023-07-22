@@ -66,13 +66,13 @@
 
 ### `💻 About Me :`
 
-I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Karnataka, India.
+I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Karnataka, India.
 
-- 📗 Currently am pursing 3rd year Bachelor of Engineering in Information Science & Engineering at NMAM Institute of Technology, Nitte, Karkala.
+- 📗 Currently am pursing 4th year Bachelor of Engineering in Information Science & Engineering at NMAM Institute of Technology, Nitte, Karkala.
 - 🌱 Enthusiastic in exploring new things everyday.
-- ⚡ During my spare-time , I do some computer stuffs like browsing on new frameworks, techs and many more.
-- 👉 To Reach me  : [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/sachin-dsilva-43169a1bb)
-- 📫 Drop a mail for web-collabs : letscode16@gmail.com
+- ⚡ During my spare-time , I do some computer stuffs like surfing on new frameworks, techs and many more.
+- 👉 How to Reach me  : [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/sachin-dsilva-43169a1bb)
+- 📫 Drop a mail for web-collabs : ***[letscode16@gmail.com](letscode16@gmail.com)***
 - Do follow my social accounts for future updates:)
 
 ---
