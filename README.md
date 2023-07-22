@@ -49,7 +49,7 @@
           src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Instagram.svg"
         />
       </a>
-      <a href="sachindsilvad@gmail.com" target="_blank">
+      <a href="mailtosachindsilvad@gmail.com" target="_blank">
         <img height="50" width="50" style="margin-right:15px"
           src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Gmail.svg"
         />
@@ -72,7 +72,7 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 - 🌱 Enthusiastic in exploring new things everyday.
 - ⚡ During my spare-time , I do some computer stuffs like surfing on new frameworks, techs and many more.
 - 👉 How to Reach me  : [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/sachin-dsilva-43169a1bb)
-- 📫 Drop a mail for web-collabs : ***[letscode16@gmail.com](letscode16@gmail.com)***
+- 📫 Drop a mail for web-collabs : ***[letscode16@gmail.com](mailto:letscode16@gmail.com)***
 - Do follow my social accounts for future updates:)
 
 ---
@@ -240,7 +240,7 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
           src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Instagram.svg"
         />
       </a>
-      <a href="sachindsilvad@gmail.com" target="_blank">
+      <a href="mailtosachindsilvad@gmail.com" target="_blank">
         <img height="50" width="50" style="margin-right:10px"
           src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Gmail.svg"
         />
