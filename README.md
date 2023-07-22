@@ -99,6 +99,9 @@ I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/W
 <!--   PYTHON  -->
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="50"/>
+
+   <!-- JAVA-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="90"/>
 </div>
 
 
@@ -128,8 +131,7 @@ I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/W
   <!--   NEXTJS  -->
 <!--    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="next" alt="next" width="50" height="100"/> -->
 
-  <!-- JAVA-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="90"/>
+ 
   
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel" width="90" height="90"/> -->
 
