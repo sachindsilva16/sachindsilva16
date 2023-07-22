@@ -1,11 +1,11 @@
 
 <kbd>
-<img src="https://holopin.me/sachindsilva16" height="300" width="1000" align="center"/>
+<img src="https://holopin.me/sachindsilva16" height="300"  align="center" style="margin-bottom:20px;display:flex;align-items:center;justify-content:center;width:800px;height:auto;"/>
 </kbd>
 
 
-<div id="header" align="center" style="display:flex;justify-content:center;align-items:center;border-radius:10px;margin:10px 20px;margin-bottom:50px;">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUzNTAxNmU0MjBmNjg1MmMyNTEzODc5YjRmMTQ5YjdiNzg5YWFjMCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif">
+<div id="header" align="center" style="display:flex;justify-content:center;align-items:center;margin-bottom:50px;margin-top:50px;">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUzNTAxNmU0MjBmNjg1MmMyNTEzODc5YjRmMTQ5YjdiNzg5YWFjMCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" height="300">
   
   <!-- <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" height="40" width="30" align="right"> -->
 </div>
