@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" height="40%" width="30%" align="right">
 </div>
 
-<div class="badges" align="center" style="margin-top:100px;">
+<!-- <div class="badges" align="center" style="margin-top:100px;">
       <a href="https://www.linkedin.com/in/sachin-dsilva-43169a1bb">
         <img
           src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic"  target="_blank"
@@ -33,7 +33,30 @@
           src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=plastic"
         />
       </a>
-    </div>
+    </div> -->
+
+  <div class="badges" align="center" style="margin-top:100px; margin-bottom:50px;display:flex; align-items:center; justify-content:center;">
+      <a  href="https://www.linkedin.com/in/sachin-dsilva-43169a1bb">
+        <img height="50" width="50" style="margin-right:15px"
+          src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Linkedin.svg"  target="_blank"
+        />
+      </a>
+      <a href="https://twitter.com/sachinrons123" target="_blank">
+        <img height="50" width="50" style="margin-right:15px"
+          src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Twitter.svg"
+        >
+      </a>
+      <a href="https://www.instagram.com/sachin.dsilva_/" target="_blank">
+        <img height="50" width="50" style="margin-right:15px"
+          src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Instagram.svg"
+        />
+      </a>
+      <a href="sachindsilvad@gmail.com" target="_blank">
+        <img height="50" width="50" style="margin-right:15px"
+          src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Gmail.svg"
+        />
+      </a>
+  </div>
   <div class="profile-count" align="center">
         <img src="https://komarev.com/ghpvc/?username=sachindsilva16">
   </div>
@@ -87,18 +110,18 @@ I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/W
 
 <!--REACTJS-->
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="90"/>
 
 <!--   TAILWINDCSS  -->
   <img src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/tailwindcss.svg" title="tailwind" alt="tailwind" width="80" height="90"/>
 
   <!--MYSQL-->
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="90"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="90"/>
 
 
 <!--   NODEJS -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="90"/>
 
 
 <!--   TYPESCRIPT  -->
@@ -108,7 +131,7 @@ I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/W
 <!--    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="next" alt="next" width="50" height="100"/> -->
 
   <!-- JAVA-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="90"/>
   
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel" width="90" height="90"/> -->
 
@@ -122,7 +145,7 @@ I am a 21 y/0 Front-End Web Developer  <img src="https://media.giphy.com/media/W
 
   ### `🔨 Tools : `
 
-<div align="center">
+<div align="center" style="display:flex;align-items:center;justify-content:space-between;">
   <!--   GIT  -->
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 
