@@ -7,7 +7,7 @@
 
 
 <div id="header" align="center" style="display:flex;justify-content:center;align-items:center;margin-bottom:50px;margin-top:50px;">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUzNTAxNmU0MjBmNjg1MmMyNTEzODc5YjRmMTQ5YjdiNzg5YWFjMCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" height="300">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUzNTAxNmU0MjBmNjg1MmMyNTEzODc5YjRmMTQ5YjdiNzg5YWFjMCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" style="margin-bottom:50px;" height="300" width="500">
   
   <!-- <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" height="40" width="30" align="right"> -->
 </div>
@@ -35,9 +35,9 @@
       </a>
     </div> -->
 
-  <div class="badges" align="center" style="margin-top:100px; margin-bottom:50px;display:flex; align-items:center; justify-content:center;">
+  <div class="badges" align="center" style="margin-top:150px; margin-bottom:50px;display:flex; align-items:center; justify-content:center;">
       <a  href="https://www.linkedin.com/in/sachin-dsilva-43169a1bb">
-        <img height="50" width="50" style="margin-right:15px"
+        <img height="50" width="50" style="margin-right:15px;"
           src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/Linkedin.svg"  target="_blank"
         />
       </a>
