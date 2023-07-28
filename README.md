@@ -185,21 +185,30 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 
 <!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark)](https://git.io/streak-stats) -->
   
-<!--   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16)](https://github.com/sachindsilva16/github-readme-stats) -->
+ <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16)](https://github.com/sachindsilva16/github-readme-stats)-->
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
   
-<!--   ![sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true&theme=radical) -->
+   
   
   ---
   
- <!-- <div align="center">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&layout=compact&theme=vision-friendly-light">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&layout=compact&theme=vision-friendly-light" />
-</a>
-  </div> -->
+<!-- <div align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&layout=compact&theme=radical" />
+ <img src="https://github-readme-stats.vercel.app/api?username=sachindsilva16&layout=compact&show_icons=true&theme=radical"/>
+</div> -->
+
+<div class='container'>
+<img style="height: 70%; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&theme=radical&langs_count=8&layout=compact" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true&theme=radical" /></div>
+</div>
+
+---
+
 
 <div align="center">
-  <picture>
+<!--   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -208,7 +217,10 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
     srcset="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true&theme=radical" /> -->
+
+
+  
 </picture>
 </div>
   
@@ -216,7 +228,7 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
   
 <div align="center">
   <a href="http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=radical" />
 </a>
 
   
