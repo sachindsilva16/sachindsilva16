@@ -5,6 +5,23 @@
 
 -->
 
+<p align="center" dir="auto">
+<!--   REACT JS -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/819148d68ac2798eb170d2da38c0924450f01d501b1f34b66072c4fdb1c1aa9a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335353139302f72656163746a732e737667"><img src="https://camo.githubusercontent.com/819148d68ac2798eb170d2da38c0924450f01d501b1f34b66072c4fdb1c1aa9a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335353139302f72656163746a732e737667" height="50px" data-canonical-src="https://www.svgrepo.com/show/355190/reactjs.svg" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- TAILWIND -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a02ade9e3cfc83eed0699d7189b5d2673a2def6149b4df0f8698f822ef463793/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3337343131382f7461696c77696e642e737667"><img src="https://camo.githubusercontent.com/a02ade9e3cfc83eed0699d7189b5d2673a2def6149b4df0f8698f822ef463793/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3337343131382f7461696c77696e642e737667" height="50px" data-canonical-src="https://www.svgrepo.com/show/374118/tailwind.svg" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- MONGODB -->
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/88571833/190920486-b3bdd188-056d-4cbc-9bcc-4e7b6254df74.png"><img src="https://user-images.githubusercontent.com/88571833/190920486-b3bdd188-056d-4cbc-9bcc-4e7b6254df74.png" height="50px" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--   MYSQL -->
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6111cee1810d90f4383f261ec650917b1925b56599ab2962485b61315e0ad79e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333235312f6d7973716c2d6c6f676f2e737667"><img src="https://camo.githubusercontent.com/6111cee1810d90f4383f261ec650917b1925b56599ab2962485b61315e0ad79e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333235312f6d7973716c2d6c6f676f2e737667" height="50px" data-canonical-src="https://www.svgrepo.com/show/303251/mysql-logo.svg" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--   NODEJS -->
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/079db18b204feb62b36de18e68f71011a897454970b0352c38875b3a798ed59a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3435323037352f6e6f64652d6a732e737667"><img src="https://camo.githubusercontent.com/079db18b204feb62b36de18e68f71011a897454970b0352c38875b3a798ed59a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3435323037352f6e6f64652d6a732e737667" height="50px" data-canonical-src="https://www.svgrepo.com/show/452075/node-js.svg" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+
+
+
 
 <div id="header" align="center" style="display:flex;justify-content:center;align-items:center;margin-bottom:50px;margin-top:50px;">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUzNTAxNmU0MjBmNjg1MmMyNTEzODc5YjRmMTQ5YjdiNzg5YWFjMCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" style="margin-bottom:50px;" height="600" width="100%">
@@ -88,56 +105,25 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 
 <!--HTML5-->
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>
-
-
-<!-- CSS3  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>
   
-<!--JAVASCRIPT ES6-->
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
-  
-<!--   PYTHON  -->
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d4642b1fb5a084e324973c450699a91866e0471fa93351eefa98f5383e342d27/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3334393430322f68746d6c352e737667"><img src="https://camo.githubusercontent.com/d4642b1fb5a084e324973c450699a91866e0471fa93351eefa98f5383e342d27/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3334393430322f68746d6c352e737667" height="50px" data-canonical-src="https://www.svgrepo.com/show/349402/html5.svg" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dc60322aa209118df2560b0ad9b2c39f802813b86748b9691aa0448f64928a6a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3334393333302f637373332e737667"><img src="https://camo.githubusercontent.com/dc60322aa209118df2560b0ad9b2c39f802813b86748b9691aa0448f64928a6a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3334393333302f637373332e737667" height="50px" data-canonical-src="https://www.svgrepo.com/show/349330/css3.svg" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1fed07091d02bc63d741c771bc8a423fe660c8f5fab7a4ea49655c3499a3080d/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3334393431392f6a6176617363726970742e737667"><img src="https://camo.githubusercontent.com/1fed07091d02bc63d741c771bc8a423fe660c8f5fab7a4ea49655c3499a3080d/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3334393431392f6a6176617363726970742e737667" height="50px" data-canonical-src="https://www.svgrepo.com/show/349419/javascript.svg" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/292f45fc7b9bab8b56ca45bd26dc3ec29b84b4641d3b3c272b1a9455af0e640e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3337343031362f707974686f6e2e737667"><img src="https://camo.githubusercontent.com/292f45fc7b9bab8b56ca45bd26dc3ec29b84b4641d3b3c272b1a9455af0e640e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3337343031362f707974686f6e2e737667" height="50px" data-canonical-src="https://www.svgrepo.com/show/374016/python.svg" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;    
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/292f45fc7b9bab8b56ca45bd26dc3ec29b84b4641d3b3c272b1a9455af0e640e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3337343031362f707974686f6e2e737667"><img src="https://www.svgrepo.com/show/452234/java.svg" height="50px" data-canonical-src="https://www.svgrepo.com/svg/452234/java.svg" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;    
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="50"/>
-
-   <!-- JAVA-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="50"/>
-</div>
-
+</p>
 
 ### `⚙ Frameworks  `
 
-<div align="center">
 
-<!--REACTJS-->
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="90"/>
-
-<!--   TAILWINDCSS  -->
-  <img src="https://github.com/sachindsilva16/sachindsilva16/blob/main/icons/tailwindcss.svg" title="tailwind" alt="tailwind" width="80" height="90"/>
-
-  <!--MYSQL-->
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="90"/>
-
-
-<!--   NODEJS -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="90"/>
-
-
-<!--   TYPESCRIPT  -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="ts" alt="ts" width="80" height="90"/> -->
-
-  <!--   NEXTJS  -->
-<!--    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="next" alt="next" width="50" height="100"/> -->
-
- 
-  
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel" width="90" height="90"/> -->
-
- </div>
 
 
 
