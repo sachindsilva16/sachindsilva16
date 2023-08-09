@@ -82,7 +82,7 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 - 📫 Drop a mail for web-collabs : ***[letscode16@gmail.com](mailto:letscode16@gmail.com)***
 - Do follow my social accounts for future updates:)
 
----
+
 
 
 ### `🛠️ Languages`
@@ -100,7 +100,7 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
     &nbsp;&nbsp;&nbsp;&nbsp;    
 </p>
 
----
+
 
 ### `⚙ Frameworks`
 
@@ -117,7 +117,7 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/079db18b204feb62b36de18e68f71011a897454970b0352c38875b3a798ed59a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3435323037352f6e6f64652d6a732e737667"><img src="https://camo.githubusercontent.com/079db18b204feb62b36de18e68f71011a897454970b0352c38875b3a798ed59a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3435323037352f6e6f64652d6a732e737667" height="50px" data-canonical-src="https://www.svgrepo.com/show/452075/node-js.svg" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
----
+
 
 ### `🔨 Tools : `
 
@@ -136,24 +136,9 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 
  
  
- ---
- 
  ### ` 🔥 My Stats : `
  
 
-<!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark)](https://git.io/streak-stats) -->
-  
- <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16)](https://github.com/sachindsilva16/github-readme-stats)-->
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
-  
-   
-  
-  ---
-  
-<!-- <div align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&layout=compact&theme=radical" />
- <img src="https://github-readme-stats.vercel.app/api?username=sachindsilva16&layout=compact&show_icons=true&theme=radical"/>
-</div> -->
 
 <div class='container'>
 <img style="height: 70%; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindsilva16&theme=radical&langs_count=8&layout=compact" />
@@ -162,7 +147,6 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=sachindsilva16&show_icons=true&theme=radical" /></div>
 </div>
   
----
   
 <div align="center">
   <a href="http://github-readme-streak-stats.herokuapp.com?user=sachindsilva16&theme=dark">
@@ -170,7 +154,7 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 </a>
 
   
----
+
 
 ### CONNECT ME ON :
 
@@ -204,8 +188,8 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 
 
 
----
+
 
 - [x] 👉 **[Checkout my GitHub 2.0 for other resources](https://www.github.com/amppmann)**
 
-
+---
