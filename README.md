@@ -83,7 +83,7 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
 - Do follow my social accounts for future updates:)
 
 
-
+___
 
 ### `🛠️ Languages`
 
@@ -100,7 +100,7 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
     &nbsp;&nbsp;&nbsp;&nbsp;    
 </p>
 
-
+___
 
 ### `⚙ Frameworks`
 
@@ -117,7 +117,7 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/079db18b204feb62b36de18e68f71011a897454970b0352c38875b3a798ed59a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3435323037352f6e6f64652d6a732e737667"><img src="https://camo.githubusercontent.com/079db18b204feb62b36de18e68f71011a897454970b0352c38875b3a798ed59a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3435323037352f6e6f64652d6a732e737667" height="50px" data-canonical-src="https://www.svgrepo.com/show/452075/node-js.svg" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
+___
 
 ### `🔨 Tools : `
 
@@ -134,7 +134,7 @@ I am a __21 y/0__ Web Developer  <img src="https://media.giphy.com/media/WUlplcM
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eb334b54d725510561454e90d834d30502cbbaa74e887f138efa758757023b04/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f432f63616e76612d6c6f676f2d423442453235373239412d7365656b6c6f676f2e636f6d2e706e67"><img src="https://camo.githubusercontent.com/eb334b54d725510561454e90d834d30502cbbaa74e887f138efa758757023b04/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f432f63616e76612d6c6f676f2d423442453235373239412d7365656b6c6f676f2e636f6d2e706e67" height="50px" data-canonical-src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
- 
+___
  
  ### ` 🔥 My Stats : `
  
