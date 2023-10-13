@@ -88,6 +88,8 @@ ___
 ### `🛠️ Languages`
 
 <p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d4642b1fb5a084e324973c450699a91866e0471fa93351eefa98f5383e342d27/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3334393430322f68746d6c352e737667"><img src="https://www.svgrepo.com/show/373528/cpp3.svg" height="55px" data-canonical-src="https://www.svgrepo.com/show/349402/html5.svg" style="max-width: 100%;"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d4642b1fb5a084e324973c450699a91866e0471fa93351eefa98f5383e342d27/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3334393430322f68746d6c352e737667"><img src="https://camo.githubusercontent.com/d4642b1fb5a084e324973c450699a91866e0471fa93351eefa98f5383e342d27/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3334393430322f68746d6c352e737667" height="50px" data-canonical-src="https://www.svgrepo.com/show/349402/html5.svg" style="max-width: 100%;"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dc60322aa209118df2560b0ad9b2c39f802813b86748b9691aa0448f64928a6a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3334393333302f637373332e737667"><img src="https://camo.githubusercontent.com/dc60322aa209118df2560b0ad9b2c39f802813b86748b9691aa0448f64928a6a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3334393333302f637373332e737667" height="50px" data-canonical-src="https://www.svgrepo.com/show/349330/css3.svg" style="max-width: 100%;"></a>
