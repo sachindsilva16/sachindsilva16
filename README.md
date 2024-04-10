@@ -148,7 +148,7 @@ ___
     <img src="https://www.svgrepo.com/show/452123/twitter.svg" height="40px" data-canonical-src="https://www.svgrepo.com/show/475689/twitter-color.svg" style="max-width: 100%;">
     </a>&nbsp;&nbsp;
     <!-- TELEGRAM -->
-  <a href="https://discord.com/invite/sachindsilva#2655" rel="nofollow">
+  <a href="https://t.me/ise_nmamit" rel="nofollow">
      <img src="https://www.svgrepo.com/show/452115/telegram.svg" height="40px" alt="Discord" data-canonical-src="https://www.svgrepo.com/show/452115/telegram.svg" style="max-width: 100%;">&nbsp;&nbsp;
 <!--     LINKEDIN  -->
 
